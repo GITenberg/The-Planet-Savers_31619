@@ -1,0 +1,43 @@
+_repo: The-Planet-Savers_31619
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Novick, Irving H.
+    alias: Novick
+    birthdate: 1916
+    deathdate: 2004
+    gutenberg_agent_id: '26840'
+    url: http://www.gutenberg.org/2009/agents/26840
+covers:
+- cover_type: archival
+  image_path: 31619-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Bradley, Marion Zimmer
+    birthdate: 1930
+    deathdate: 1999
+    gutenberg_agent_id: '8842'
+    url: http://www.gutenberg.org/2009/agents/8842
+    wikipedia: http://en.wikipedia.org/wiki/Marion_Zimmer_Bradley
+description: '""One body, two minds--and a world in the balance!""Marion Zimmer Bradley
+  has written some of the finest science fiction in print. She has been away from
+  our pages too long. So this story is in the nature of a triumphant return. It could
+  well be her best to date.'
+gutenberg_bookshelf:
+- Science Fiction by Women
+- Science Fiction
+gutenberg_issued: '2010-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31619'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Darkover (Imaginary place) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Life on other planets -- Fiction'
+title: The Planet Savers
+url: http://www.gutenberg.org/ebooks/31619
